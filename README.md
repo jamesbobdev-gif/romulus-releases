@@ -42,4 +42,4 @@ Everything you connect stays on the computer where you connected it. API keys, s
 
 ## Source code and problems
 
-The app is open source; the code lives at [jamesbobdev-gif/tasks-app](https://github.com/jamesbobdev-gif/tasks-app). Report problems there, or in this repository's Issues. The app keeps a short diary at `%APPDATA%\Tasks\agent-runner.log` that usually names the cause; paste the relevant lines (strip anything personal).
+The code lives at [jamesbobdev-gif/tasks-app](https://github.com/jamesbobdev-gif/tasks-app), which is being prepared for an open-source release. Until it is public, report problems in this repository's Issues. The app keeps a short diary at `%APPDATA%\Tasks\agent-runner.log` that usually names the cause; paste the relevant lines (strip anything personal).
